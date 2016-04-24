@@ -1,7 +1,6 @@
 # -*- coding: utf-8 -*- 
 import json
 from collections import defaultdict
-from pprint import pprint
 
 #Read JSON file
 with open('workshops.json',"r") as data_file:    
